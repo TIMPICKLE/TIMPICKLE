@@ -1,5 +1,5 @@
 ### Hi there 👋 I am NIHAO DONG :) love front end, and also good at backend.  
-### 🔭 I’m currently working on United imageig, full stack job
+### 🔭 I’m currently working on United imaging, full stack job
 ### 🌱 I’m currently learning ABP
 
 ## **Education**
