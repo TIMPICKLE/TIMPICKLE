@@ -12,8 +12,7 @@
 - Upper-second class degree
 
 ## **Language**
-<img src="https://img.shields.io/badge/love-javascript-green">
-<img src="https://img.shields.io/badge/love-TypeScript-yellowgreen">
+<img src="https://img.shields.io/badge/love-javascript-green"> <img src="https://img.shields.io/badge/love-TypeScript-yellowgreen">
 <img src="https://img.shields.io/badge/like-C%23-lightgrey">
 <img src="https://img.shields.io/badge/like-python-pink">
 <img src="https://img.shields.io/badge/common-JAVA-brown">
