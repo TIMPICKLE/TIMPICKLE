@@ -1,15 +1,18 @@
-### Hi there 👋 I am NIHAO DONG :) love front end, and also good at backend.  
+### Hi there 👋 I am NIHAO DONG :) 
 ### 🔭 I’m currently working on United imaging, full stack job
-### 🌱 I’m currently learning ABP
+### 🌱 useing ABP and Angular.
+### 📱 learning MAUI to try some cross platform work
 
 ## **Education**
 ### 2020.9 – 2021.12 University of liverpool  Master's Degree
 - advanced computer science
 - Merit class degree
+- data science and mechine learning
 
 ### 2017.9 – 2020.7 Staffordshire University  Bachelor's Degree
 - computing science
 - Upper-second class degree
+- focus on Cross-platform technology
 
 ## **Language**
 <img src="https://img.shields.io/badge/love-javascript-green"> <img src="https://img.shields.io/badge/love-TypeScript-yellowgreen">
