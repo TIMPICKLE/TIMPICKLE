@@ -1,7 +1,6 @@
 ### Hi there 👋 I am NIHAO DONG :) 
 ### 🔭 I’m currently working on United imaging, full stack job
-### 🌱 useing ABP and Angular.
-### 📱 learning MAUI to try some cross platform work
+
 
 ## **Education**
 ### 2020.9 – 2021.12 University of liverpool  Master's Degree
