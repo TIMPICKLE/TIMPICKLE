@@ -1,6 +1,10 @@
 ### Hi there 👋 I am NIHAO DONG :) 
-### 🔭 I’m currently working on United imaging, full stack job
+### 🔭 I’m currently working on United imaging
 
+## **Work experience**
+### SHANGHAI United Imaging Medical Technology Co., Ltd.
+#### 2021.12 - 2024.12 Full stack job in HIS
+#### 2024.12 - now AI Efficiency Program Team
 
 ## **Education**
 ### 2020.9 – 2021.12 University of liverpool  Master's Degree
