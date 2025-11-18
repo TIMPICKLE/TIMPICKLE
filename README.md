@@ -3,7 +3,7 @@
 
 ## **Work experience**
 ### SHANGHAI United Imaging Medical Technology Co., Ltd.
-#### 2021.12 -- 2024.12  / Full stack job in HIS
+#### 2021.12 -- 2024.12  / Full stack job in OIS(Oncology Information System)
 #### 2024.12 -- present / AI Efficiency Program Team
 
 ## **Education**
