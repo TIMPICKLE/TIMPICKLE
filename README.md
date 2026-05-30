@@ -31,8 +31,8 @@ fun_fact: American Football player (Stingers 🏈) | Elden Ring explorer | Frida
 
 | Degree | University | Period | Highlights |
 |--------|-----------|--------|------------|
-| 🎓 MSc Advanced Computer Science | University of Liverpool | 2020 - 2021 | Merit · Data Science & ML |
-| 🎓 BSc Computing Science | Staffordshire University | 2017 - 2020 | Upper Second · Cross-platform |
+| 🛫 MSc Advanced Computer Science | University of Liverpool | 2020 - 2021 | Merit · Data Science & ML |
+| 💺 BSc Computing Science | Staffordshire University | 2017 - 2020 | Upper Second · Cross-platform |
 
 ---
 
@@ -121,12 +121,7 @@ fun_fact: American Football player (Stingers 🏈) | Elden Ring explorer | Frida
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/TIMPICKLE">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TIMPICKLE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TIMPICKLE&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  </a>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TIMPICKLE&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
@@ -138,7 +133,7 @@ fun_fact: American Football player (Stingers 🏈) | Elden Ring explorer | Frida
 
 <div align="center">
 
-`🏈 American Football (Stingers)` · `🏀 Basketball` · `🎮 Elden Ring / Black Myth` · `☕ Iced Americano (no sugar)` · `💆 Friday Massage Ritual`
+`🏈 American Football (Stingers)` · `🏀 Basketball` · `🎮 PS5 / NS` · `☕ Iced Americano (no sugar)` · `💆 Friday Massage Ritual`
 
 </div>
 
